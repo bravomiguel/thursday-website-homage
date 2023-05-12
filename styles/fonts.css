@@ -1,0 +1,11 @@
+@font-face {
+  font-family: AribauGrotesk;
+  src: url(/assets/fonts/AribauGrotesk-Bd.woff2) format('woff2');
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: AribauGrotesk;
+  src: url(/assets/fonts/AribauGrotesk-Rg.woff2) format('woff2');
+  font-weight: 400;
+}
